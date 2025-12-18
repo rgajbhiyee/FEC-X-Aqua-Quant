@@ -56,3 +56,5 @@ Ensemble / probabilistic regime voting across models
 Reinforcement learning for adaptive regime confidence
 
 Improved validation and robustness testing
+
+Model selection and regime inference are treated as a probabilistic learning problem on time-series data.
